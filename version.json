@@ -1,4 +1,5 @@
 {
-  "version": "3.7.4",
-  "changelog": "Подключение GIT"
+  "version": "3.7.4.1",
+  "changelog": "Подключение GIT",
+  "full_update": true
 }
