@@ -1,5 +1,5 @@
 {
-  "version": "3.7.4.1",
-  "changelog": "Полный переход на GIT",
-  "full_update": true
+  "version": "3.7.4.2",
+  "changelog": "Корретировка дизайна, переименование устройств в пинге устройств",
+  "full_update": false
 }
