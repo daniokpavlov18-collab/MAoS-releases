@@ -1,5 +1,5 @@
 {
-  "version": "3.7.5",
-  "changelog": "Добавил ИИ для шаблонов,исправил баги",
-  "full_update": true
+  "version": "3.7.6",
+  "changelog": "Обновил ИИ, добавил возможность создавать конфиги Hongdian",
+  "full_update": false
 }
