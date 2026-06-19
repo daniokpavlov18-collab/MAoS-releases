@@ -2,7 +2,7 @@
 # 🛠️ MAoS — Manager Assist of Support
 
 > Десктопное приложение для специалистов технической поддержки розничной сети kari.com.  
-> Версия **3.7.5** · Python + PyQt5 · Windows
+> Версия **3.7.6** · Python + PyQt5 · Windows
 
 ---
 
