@@ -1,5 +1,6 @@
 {
-  "version": "3.7.6",
-  "changelog": "Обновил ИИ, добавил возможность создавать конфиги Hongdian",
-  "full_update": false
+  "version": "3.7.7",
+  "changelog": "...",
+  "full_update": false,
+  "zip_version": "3.7.5"
 }
