@@ -1,6 +1,6 @@
 {
-  "version": "4.0.0",
-  "full_update": true,
+  "version": "4.0.1",
+  "full_update": false,
   "zip_version": "4.0.0",
-  "changelog": "Исправление багов, добавление новой игры"
+  "changelog": "Баг фикс вылета"
 }
