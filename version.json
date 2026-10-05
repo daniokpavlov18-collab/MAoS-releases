@@ -1,6 +1,6 @@
 {
-  "version": "3.9.5",
+  "version": "4.0.0",
   "full_update": true,
-  "zip_version": "3.9.5",
-  "changelog": "Достижения?"
+  "zip_version": "4.0.0",
+  "changelog": "Исправление багов, добавление новой игры"
 }
