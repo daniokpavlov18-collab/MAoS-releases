@@ -1,6 +1,6 @@
 {
-  "version": "4.1.1",
+  "version": "4.1.2",
   "full_update": true,
-  "zip_version": "4.1.1",
+  "zip_version": "4.1.2",
   "changelog": "Багфикс вылетов"
 }
